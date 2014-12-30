@@ -619,13 +619,13 @@
           <boolProp name="exclude_checkbox_state">false</boolProp>
           <collectionProp name="metricConnections">
             <collectionProp name="911583271">
-              <stringProp name="1807549770">193.166.24.138</stringProp>
+              <stringProp name="1807549770">yourserverip</stringProp>
               <stringProp name="1571004">3450</stringProp>
               <stringProp name="66952">CPU</stringProp>
               <stringProp name="0"></stringProp>
             </collectionProp>
             <collectionProp name="-1389131050">
-              <stringProp name="1807549770">193.166.24.138</stringProp>
+              <stringProp name="1807549770">yourserverip:</stringProp>
               <stringProp name="1571004">3450</stringProp>
               <stringProp name="-1993889503">Memory</stringProp>
               <stringProp name="0"></stringProp>
